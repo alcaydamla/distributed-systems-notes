@@ -1,4 +1,5 @@
-# Dağıtık Sistemler Rehberi
+# Dağıtık Sistemler Rehberi / Distributed Systems Notes
+
 
 Bu repoda aşağıdaki teknolojiler hakkında teknik açıklamalar ve karşılaştırmalar yer almaktadır:
 
@@ -8,4 +9,4 @@ Bu repoda aşağıdaki teknolojiler hakkında teknik açıklamalar ve karşıla�
 - Docker (container teknolojisi)
 - Kubernetes 
 
-📎 [PDF Rehberi Görüntüle](./Kafka_RabbitMQ_Log4net_Docker_K8s_Guide.pdf)
+📎 **[PDF Rehberi Görüntüle](./Kafka_RabbitMQ_Log4net_Docker_K8s_Guide.pdf)**
