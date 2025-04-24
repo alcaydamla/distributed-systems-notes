@@ -1,11 +1,11 @@
-# Distributed Systems Notes
+# Dağıtık Sistemler Rehberi
 
-A comprehensive technical guide covering:
+Bu repoda aşağıdaki teknolojiler hakkında teknik açıklamalar ve karşılaştırmalar yer almaktadır:
 
 - Apache Kafka
 - RabbitMQ
-- log4net (logging in .NET)
-- Docker (containerization)
-- Kubernetes (container orchestration)
+- log4net (loglama)
+- Docker (container teknolojisi)
+- Kubernetes (container orkestrasyonu)
 
-📎 [View PDF Guide](./Kafka_RabbitMQ_Log4net_Docker_K8s_Guide.pdf)
+📎 [PDF Rehberi Görüntüle](./Kafka_RabbitMQ_Log4net_Docker_K8s_Guide.pdf)
